@@ -1,133 +1,138 @@
-ID_processo,classe_processual,estado,ano_fatos,faixa_etaria_vitima,faixa_etaria_reu,resultado_julgamento,categoria_vinculo,coab,filhos,consentimento_familiar,consentimento_vitima,aplicacao_sumula
-148088,REsp,PI,2009,1,2,1,1,,0,1,1,1
-203354,AgRg no REsp,SC,Não informado,1,2,1,0,0,0,0,1,1
-211280,AgRg no REsp,MG,Não informado,2,,1,1,,0,0,1,1
-264516,AgRg no AREsp,PR,Não informado,1,,1,1,,,0,1,1
-849912,AgRg no HC,MG,2018,2,1,1,1,0,1,0,1,1
-804741,AgRg no HC,MS,2013,2,2,1,1,,,0,1,1
-254352,AgRg no AgRg no AREsp,DF,2020,,,1,0,,,0,0,1
-202422,REsp,MT,2011,2,0,1,1,1,,1,1,1
-224010,AgRg no AREsp,PI,Não informado,2,,1,0,0,1,0,0,1
-200221,AgRg no REsp,MG,2011,2,2,1,1,1,,1,1,1
-184262,REsp,GO,2011,1,2,1,0,0,0,0,1,1
-132092,REsp,MG,2008,1,,1,0,0,0,0,1,1
-835236,AgRg no HC,TO,2019,2,1,1,1,,,1,1,1
-173028,REsp,SC,2011,2,2,1,0,0,0,0,1,1
-191800,AgRg no REsp,MG,Não informado,2,,1,1,,0,1,1,1
-193481,AgRg no REsp,TO,Não informado,2,2,1,1,,0,0,1,1
-193481,AgRg no REsp,TO,2009,1,,1,,1,0,1,1,1
-694900,AgRg no RHC,SP,Não informado,,,1,0,,0,0,0,1
-184789,AgRg no REsp,MG,2012,1,1,1,0,0,0,0,1,1
-174559,AgRg no REsp,MS,2015,2,2,1,1,1,0,1,1,1
-146576,AgRg no REsp,SC,2006,1,,1,0,,0,0,1,1
-143912,AgRg no REsp,MG,Não informado,,,1,0,0,,0,1,1
-280782,AgRg nos EDcl no AREsp,GO,Não informado,,2,1,0,,,0,1,1
-200221,AgRg no REsp,MG,2019,2,,1,0,0,1,0,1,1
-212700,AgRg no REsp,SP,2020,,,1,0,0,,0,1,1
-215458,AgRg no REsp,RS,2015,2,0,1,0,0,0,0,1,1
-885416,AgRg no HC,RR,2019,,,1,0,0,,0,1,1
-913497,AgRg no HC,SP,2014,,,1,1,1,,0,1,1
-208333,AgRg no REsp,MG,Não informado,1,1,1,1,,,1,1,1
-212840,AgRg no REsp,RS,2017,0,,1,,,0,0,0,1
-871265,HC,SC,Não informado,,,1,1,,,0,1,1
-249385,AREsp,MS,2015,2,2,1,1,,,0,1,1
-157443,AREsp,MS,2014,1,,1,1,,,0,1,1
-239068,AREsp,SP,2019,2,,1,0,0,,0,0,1
-259005,AREsp,MS,Não informado,1,,1,1,0,,0,0,1
-176898,AgRg no REsp,SC,Não informado,0,,1,1,,0,0,1,1
-176979,AgRg no REsp,SC,2013,1,,1,0,0,0,0,1,1
-527774,HC,SP,2012,0,,1,0,,0,0,0,1
-171531,REsp,DF,Não informado,0,,1,0,,0,0,0,1
-176559,AgRg no REsp,ES,2013,2,0,1,1,,,0,1,1
-169452,AgRg no REsp,RO,2014,0,,1,,1,,1,1,1
-149635,AgRg no REsp,RR,2011,0,2,1,1,,,1,1,1
-175618,AgRg no REsp,SP,2015,1,1,1,0,0,,0,0,1
-140372,AgRg no AREsp,TO,Não informado,1,,1,,1,1,1,1,1
-143672,AgRg no AREsp,SP,2008,0,,1,,,0,0,0,1
-155742,AgRg no AREsp,SP,2017,1,,1,0,1,0,0,0,1
-158776,AgRg no AREsp,MG,Não informado,2,,1,0,0,0,0,1,1
-231453,AgRg no AREsp,GO,2015,2,,1,1,,0,1,1,1
-134780,AgRg no AREsp,MG,Não informado,1,,1,,,0,0,1,1
-195164,REsp,RS,2017,2,,1,1,,0,0,1,1
-831541,AgRg no HC,MA,2021,1,2,1,,,0,0,0,1
-800685,AgRg no HC,SE,Não informado,,,1,1,,0,0,1,1
-795482,AgRg no HC,SP,2017,,,1,0,0,0,0,1,1
-210952,AgRg no REsp,MG,Não informado,,,1,,,0,0,1,1
-208602,AgRg no REsp,RS,2014,,,1,1,,0,,1,1
-722014,AgRg no HC,RS,2015,2,0,1,1,,0,0,1,1
-681080,AgRg no HC,MG,2010,,2,1,0,0,0,0,1,1
-676155,AgRg no HC,MG,Não informado,,,1,1,,0,0,1,1
-199917,AgRg no REsp,SP,Não informado,,,1,1,,0,0,1,1
-197973,AgRg no REsp,PR,2015,,0,1,1,,0,0,1,1
-197199,AgRg no REsp,MS,2019,2,,1,,,0,0,1,1
-208631,AgRg no AREsp,AL,2012,1,,1,0,,0,0,1,1
-237957,AgRg no AREsp,SP,2013,2,1,1,0,0,0,0,1,1
-147619,AgRg no REsp,GO,2010,2,,1,0,0,1,0,1,1
-183064,AgRg no REsp,MS,Não informado,1,,1,1,,0,1,1,1
-201216,ADRESP,GO,Não informado,2,,1,0,0,0,0,1,1
-195723,AEAREsp,MG,Não informado,2,0,1,1,,0,1,1,1
-169551,AgRg no AREsp,ES,2009,2,2,1,0,0,0,0,0,1
-208489,AgRg no AREsp,GO,Não informado,,,1,1,,0,0,1,1
-226153,AgRg no AREsp,MG,Não informado,,,1,0,0,,0,1,1
-185259,REsp,MG,Não informado,1,,1,0,0,0,0,1,1
-184262,REsp,MG,Não informado,1,1,1,1,,1,0,1,1
-630372,HC,MG,Não informado,2,0,1,,,1,1,1,1
-188501,AgRg no REsp,PR,Não informado,,,1,0,0,0,0,0,1
-189990,AgRg nos EDcl no REsp,DF,Não informado,,,1,0,0,0,,,1
-142704,AgRg no REsp,TO,2013,,,1,0,0,0,,,1
-163831,AgRg no AREsp,MS,2019,1,,1,0,,0,,,1
-153688,AgRg no REsp,ES,2015,,,1,0,0,0,,,1
-379763,AgRg no HC,SC,2012,2,1,1,,,,0,1,1
-477088,AgRg no HC,MS,2015,,,1,1,,,0,1,1
-382196,HC,SP,2014,1,,1,,,,0,1,1
-387667,HC,SP,2013,,,1,,,1,0,1,1
-160739,REsp,RO,2014,2,,1,0,,0,0,1,1
-185437,AgRg no REsp,SC,2014,1,1,1,1,,0,1,1,1
-163595,AgRg no REsp,AC,2011,1,,1,0,0,0,0,0,1
-176254,AgRg no REsp,SP,2012,0,,1,0,,1,0,1,1
-171010,AgRg no REsp,SP,2011,,,1,0,0,0,0,1,1
-136005,AgRg no AREsp,TO,Não informado,,,1,1,,,0,1,1
-165091,AgRg no AREsp,MS,Não informado,,,1,1,,,,1,1
-155347,AgRg no REsp,SP,2012,1,,1,1,,,0,1,1
-158511,AgRg no REsp,MG,Não informado,2,,1,1,,,0,1,1
-162216,AgRg no REsp,MG,2013,,,1,0,,,,1,1
-154015,REsp,MG,Não informado,0,,1,0,0,,0,1,1
-728575,AREsp,ES,Não informado,1,2,1,1,,,1,1,1
-110419,AREsp,RS,Não informado,1,1,1,1,,,0,1,1
-283470,AREsp,RS,Não informado,,,1,1,,,0,1,1
-966382,HC,SP,Não informado,,,1,,,,0,1,1
-170792,REsp,RJ,Não informado,0,,1,0,0,,0,0,1
-216534,AgRg no REsp,MG,2018,2,,1,1,,,0,1,1
-961744,AgRg no HC,ES,2021,2,0,1,1,1,1,,1,1
-159217,AgInt no REsp,RJ,2010,1,2,1,1,,,,1,1
-270098,AREsp,GO,2019,1,2,1,0,0,0,0,1,1
-211850,AgRg no REsp,SC,2013,1,0,1,1,,0,1,1,1
-214764,AgRg no REsp,MT,2020,2,0,1,1,,1,1,1,1
-231698,AgRg no AREsp,AM,2017,1,,1,1,,0,0,1,1
-248059,AgRg no AREsp,SE,2021,2,2,1,,,0,0,1,1
-279235,AgRg no AREsp,RO,2020,1,,1,0,,0,0,0,1
-166443,AgRg no REsp,MG,2007,,,1,0,0,,0,0,1
-172188,AgRg no REsp,MS,2014,2,1,1,1,,0,0,1,1
-118368,AgRg no AREsp,SE,2014,1,2,1,,,,0,1,1
-221858,AgRg no AREsp,RS,2012,1,2,1,,1,0,0,0,1
-230572,AgRg no AREsp,SE,Não informado,2,0,0,,1,,1,1,0
-201531,AgRg no REsp,MG,2016,1,0,0,,1,1,0,1,0
-265254,AgRg no AREsp,MS,2016,,,0,,1,1,1,1,0
-240573,AgRg no AREsp,MG,2017,2,0,0,,1,1,1,1,0
-238961,AgRg no AREsp,MG,2013,1,1,0,,1,1,1,1,0
-201966,AgRg no REsp,CE,Não informado,1,,0,1,,1,0,1,0
-202969,AgRg no REsp,MG,2015,2,1,0,1,,,0,1,0
-206484,AgRg no REsp,SE,2014,1,0,0,1,1,0,1,1,0
-204528,AgRg no REsp,SC,2014,2,1,0,1,1,0,1,1,0
-202900,AgRg no REsp,RN,2016,2,0,0,1,,,1,1,0
-155503,AREsp,GO,2012,2,0,0,1,,1,0,1,0
-897015,AgRg no HC,PA,2016,2,0,0,1,,1,0,1,0
-217780,AgRg no AgRg no AREsp,CE,2009,1,,0,1,,1,1,1,0
-211854,AgRg no REsp,SC,2021,2,1,0,1,1,1,1,1,0
-210161,AgRg no REsp,TO,2020,2,0,0,1,,1,0,1,0
-197716,REsp,MS,2019,1,0,0,1,1,1,1,1,0
-152449,REsp,RN,2009,1,0,0,1,,1,0,1,0
-772844,HC,MT,2011,1,0,0,1,,0,1,1,0
-202146,REsp,MG,Não informado,,,0,1,,,0,1,0
-210396,AgRg no REsp,MG,Não informado,2,0,0,,1,0,1,1,0
-191972,AgRg no REsp,SP,2016,1,1,0,,,1,1,1,0
+ID_processo,classe_processual,estado,ano_fatos,faixa_etaria_vitima,faixa_etaria_reu,resultado_julgamento,descricao_vinculo,categoria_vinculo,coab,filhos,consentimento_familiar,consentimento_vitima,aplicacao_sumula
+148088,REsp,PI,2010,1,2,1,Namoro,1,0,0,0,1,1
+203354,AgRg no REsp,SC,2012,1,2,1,Casual,1,0,0,0,1,1
+211280,AgRg no REsp,MG,2017,2,0,1,Namoro,1,0,0,0,1,1
+264516,AgRg no AREsp,PR,2017,1,0,1,Namoro,1,0,0,0,1,1
+849912,AgRg no HC,MG,2018,2,2,1,Namoro,1,0,1,0,1,1
+804741,AgRg no HC,MS,2013,2,2,1,Namoro,1,0,0,0,1,1
+254352,AgRg no AgRg no AREsp,DF,2020,0,2,1,Não,0,0,0,0,0,1
+202422,REsp,MT,2011,2,0,1,União estável,1,1,0,1,1,1
+224010,AgRg no AREsp,SP,2017,2,2,1,Casual,1,0,1,0,1,1
+200221,AgRg no REsp,MG,2011,2,2,1,Namoro,1,1,0,1,1,1
+184262,REsp,GO,2011,1,2,1,Não,0,0,0,0,0,1
+132092,REsp,MG,2009,1,2,1,Namoro,1,0,0,0,1,1
+835236,AgRg no HC,TO,2019,2,2,1,Namoro,1,0,1,1,1,1
+173028,REsp,SC,2011,2,2,1,Não,0,0,0,0,1,1
+191800,AgRg no REsp,MG,2016,2,2,1,Casual,1,0,0,0,1,1
+193481,AgRg no REsp,TO,2013,2,2,1,União estável,1,1,1,1,1,1
+193481,AgRg no REsp,TO,2010,1,2,1,União estável,1,1,0,0,1,1
+694900,AgRg no HC,SP,2011,0,2,1,Não,0,0,0,0,0,1
+184789,AgRg no REsp,MG,2012,1,2,1,Não,0,0,0,0,0,1
+174559,AgRg no REsp,MS,2015,2,2,1,Namoro,1,1,0,1,1,1
+143912,AgRg no REsp,MG,2011,1,2,1,Namoro,1,1,0,1,1,1
+280782,AgRg nos EDcl no AREsp,GO,2014,,,1,Não,0,0,0,0,0,1
+200221,AgRg no REsp,MG,2019,2,2,1,Namoro,1,0,1,0,1,1
+215458,AgRg no REsp,RS,2014,2,0,1,Não,0,0,0,0,0,1
+885416,AgRg no HC,RR,2013,2,2,1,Namoro,1,0,0,0,1,1
+913497,AgRg no HC,SP,2014,1,2,1,Casual,1,0,0,0,1,1
+208333,AgRg no REsp,MG,2016,2,2,1,Namoro,1,0,0,1,1,1
+212840,AgRg no REsp,RS,2017,0,2,1,Não,0,0,0,0,0,1
+871265,HC,SC,2013,1,2,1,Namoro,1,0,0,0,1,1
+249385,AREsp,MS,2015,2,2,1,Casual,1,0,0,0,1,1
+157443,AREsp,MS,2014,1,2,1,Casual,1,0,0,0,1,1
+239068,AREsp,SP,2019,2,2,1,Não,0,0,0,0,0,1
+259005,AREsp,MS,2017,1,2,1,Casual,1,0,,0,1,1
+176898,AgRg no REsp,SC,2014,1,2,1,Casual,1,0,0,0,1,1
+176979,AgRg no REsp,SC,2013,1,2,1,Casual,1,0,0,0,1,1
+527774,HC,SP,2012,0,2,1,Não ,0,0,0,0,0,1
+171531,REsp,DF,2014,0,2,1,Não,0,0,0,0,0,1
+176559,AgRg no REsp,ES,2013,2,0,1,Namoro,1,0,0,0,1,1
+169452,AgRg no REsp,RO,2013,2,2,1,União estável,1,1,0,1,1,1
+149635,AgRg no REsp,RR,2011,2,2,1,Namoro,1,1,0,0,1,1
+175618,AgRg no REsp,SP,2015,1,2,1,Não,0,0,0,0,0,1
+140372,AgRg no AREsp,TO,2016,1,2,1,União estável,1,1,1,,1,1
+143672,AgRg no AREsp,SP,2010,2,2,1,Não,0,1,0,0,0,1
+155742,AgRg no AREsp,SP,2017,1,2,1,Não ,0,1,0,0,0,1
+158776,AgRg no AREsp,MG,2015,2,2,1,Não ,0,0,0,0,0,1
+231453,AgRg no AREsp,GO,2015,2,2,1,Namoro,1,0,0,1,1,1
+134780,AgRg no AREsp,MG,2015,2,2,1,Não,0,1,0,0,0,1
+195164,REsp,RS,2013,2,2,1,Namoro,1,0,0,0,0,1
+831541,AgRg no HC,MA,2017,1,2,1,União estável,1,1,0,1,1,1
+800685,AgRg no HC,SE,2009,2,2,1,Não,0,1,0,0,0,1
+795482,AgRg no HC,SP,2017,2,2,1,Casual,1,0,0,0,1,1
+210952,AgRg no REsp,MG,2020,2,2,1,Casual,1,0,0,0,1,1
+208602,AgRg no REsp,RS,2014,1,2,1,Namoro,1,0,0,1,1,1
+722014,AgRg no HC,PB,2012,2,0,1,Namoro,1,1,0,1,1,1
+681080,AgRg no HC,MG,2015,1,2,1,Não,0,0,0,1,0,1
+676155,AgRg no HC,SP,2019,1,2,1,Namoro,1,0,0,0,1,1
+197973,AgRg no REsp,MT,2014,1,0,1,Namoro,1,0,0,0,1,1
+197199,AgRg no REsp,SC,2014,2,0,1,Namoro,1,0,0,0,1,1
+208631,AgRg no AREsp,AL,2012,1,2,1,Não,0,0,0,0,0,1
+237957,AgRg no AREsp,SP,2012,2,2,1,Namoro,1,0,0,0,1,1
+147619,AgRg no REsp,GO,2011,2,2,1,Não,0,0,1,0,0,1
+183064,AgRg no REsp,MS,2016,1,2,1,Namoro,1,0,0,1,1,1
+201216,ADRESP,RS,2014,1,2,1,Não,0,0,0,0,0,1
+169551,AgRg no AREsp,ES,2009,2,2,1,Não,0,0,0,0,0,0
+208489,AgRg no AREsp,GO,2013,1,2,1,Namoro,1,0,0,1,1,1
+226153,AgRg no AREsp,MG,2018,1,2,1,Casual,1,0,0,0,1,1
+185259,REsp,RO,2016,2,0,1,Namoro,1,0,0,1,1,1
+184262,REsp,GO,2011,1,2,1,Não,0,0,0,0,0,1
+630372,HC,SP,2020,2,2,1,Casual,1,1,0,0,1,1
+188501,AgRg no REsp,PR,2009,0,2,1,Não,0,0,0,0,0,1
+189990,AgRg nos EDcl no REsp,DF,2017,0,2,1,Não,0,0,0,0,0,1
+142704,AgRg no REsp,TO,2013,2,2,1,Namoro,1,0,0,0,1,1
+163831,AgRg no AREsp,MS,2017,0,2,1,Não,0,0,0,1,0,1
+153688,AgRg no REsp,ES,2015,2,2,1,Namoro,1,0,0,0,1,1
+379763,AgRg no HC,SC,2012,2,2,1,Casual,1,0,0,0,1,1
+477088,AgRg no HC,MS,2015,2,2,1,Casual,1,0,0,,1,1
+382196,HC,SP,2014,1,,1,Casual,1,0,0,0,1,1
+387667,HC,SP,2013,1,0,1,Namoro,1,0,1,0,1,1
+160739,REsp,RO,2014,2,2,1,Não,0,1,0,0,1,1
+185437,AgRg no REsp,SC,2014,2,1,1,União estável,1,1,0,1,1,1
+163595,AgRg no REsp,AC,2011,1,2,1,Não,0,0,0,0,0,1
+176254,AgRg no REsp,SP,2011,2,2,1,Não,0,1,0,0,0,1
+171010,AgRg no REsp,SP,2011,1,0,1,Casual,1,0,0,0,1,1
+136005,AgRg no AREsp,TO,2013,2,2,1,Namoro,1,0,0,0,1,1
+165091,AgRg no AREsp,MS,2012,2,2,1,União estável,1,1,1,1,1,1
+155347,AgRg no REsp,SP,2012,1,2,1,Namoro,1,0,0,0,1,1
+158511,AgRg no REsp,MG,2013,2,2,1,Namoro,1,0,0,0,1,1
+162216,AgRg no REsp,MG,2013,1,2,1,Namoro,1,0,0,1,1,1
+154015,AgRg nos Edcl no REsp,MG,2010,2,2,1,Não,0,0,0,0,0,1
+728575,AgRg AREsp,ES,2010,2,2,1,Namoro,1,0,0,,1,1
+110419,AREsp,RS,2011,1,2,1,Casual,1,0,0,0,1,1
+283470,AREsp,RS,2017,1,2,1,União estável,1,1,0,1,1,1
+966382,HC,SP,2019,2,2,1,Não,0,0,0,0,0,1
+170792,REsp,RJ,2014,0,,1,Não,0,0,0,0,0,1
+216534,AgRg no REsp,MG,2017,2,2,1,Casual,1,0,0,0,1,1
+961744,AgRg no HC,ES,2021,2,0,1,Casual,1,1,1,,1,1
+159217,AgInt no REsp,RJ,2010,1,,1,Não,0,1,0,0,0,1
+270098,AREsp,GO,2019,1,2,1,Casual,1,0,0,0,1,1
+211850,AgRg no REsp,SC,2013,1,0,1,Namoro,1,,0,1,1,1
+214764,AgRg no REsp,MT,2020,2,0,1,União estável,1,1,1,1,1,1
+231698,AgRg no AREsp,AM,2017,1,2,1,Namoro,1,0,0,0,1,1
+248059,AgRg no AREsp,SE,2021,2,2,1,Namoro,1,0,0,0,1,1
+279235,AgRg no AREsp,RO,2020,1,,1,Não,0,1,0,0,0,1
+172188,AgRg no REsp,MS,2014,2,2,1,Namoro,1,0,0,1,1,1
+118368,AgRg no AREsp,SE,2014,1,2,1,União estável,1,1,0,0,1,1
+221858,AgRg no AREsp,RS,2015,1,2,1,Não,0,1,0,0,0,1
+,não informado,SP,2013,1,2,1,Casual,1,0,0,0,1,1
+220261,AgRg no Resp,MG,2016,2,0,1,Namoro,1,0,0,0,1,1
+976227,HC,RS,2019,1,2,1,Namoro,1,1,0,0,1,1
+280596,AgRg no AREsp,ES,2016,0,2,1,Não,0,0,0,0,0,1
+101478,HC,MG,2010,2,2,1,Namoro,1,0,1,0,1,1
+293118,AgRg no AREsp,SP,2016,2,2,1,Namoro,1,0,1,1,1,1
+283931,AgRg no AREsp,MG,2018,2,2,1,Casual,1,1,1,0,1,1
+230572,AgRg no AREsp,SE,2020,2,2,0,União estável,1,1,0,1,1,0
+201531,AgRg no REsp,MG,2016,1,0,0,União estável,1,1,1,0,1,0
+265254,AgRg no AREsp,MS,2016,1,2,0,União estável,1,1,1,1,1,0
+240573,AgRg no AREsp,MG,2017,2,0,0,Namoro,1,,1,1,1,0
+238961,AgRg no AREsp,MG,2013,1,2,0,União estável,1,1,1,1,1,0
+201966,AgRg no REsp,CE,2012,1,2,0,Namoro,1,0,1,0,1,0
+202969,AgRg no REsp,MG,2015,2,2,0,Casual,1,0,0,0,1,0
+206484,AgRg no REsp,SE,2014,1,0,0,União estável,1,1,0,1,1,0
+204528,AgRg no REsp,SC,2014,2,2,0,União estável,1,1,0,1,1,0
+202900,AgRg no REsp,RN,2016,2,0,0,Namoro,1,0,0,0,1,0
+155503,AREsp,GO,2012,2,2,0,Casamento,1,1,1,0,1,0
+897015,AgRg no HC,PA,2016,2,0,0,União estável,1,0,1,0,1,0
+217780,AgRg no AgRg no AREsp,CE,2009,1,2,0,União estável,1,1,1,1,1,0
+211854,AgRg no REsp,SC,2021,2,2,0,União estável,1,1,1,1,1,0
+210161,AgRg no REsp,TO,2020,2,0,0,União estável,1,1,1,0,1,0
+197716,REsp,MS,2019,1,0,0,Namoro,1,1,1,1,1,0
+152449,REsp,RN,2009,1,0,0,União estável,1,1,1,0,1,0
+772844,HC,MT,2011,2,0,0,Namoro ,1,0,0,,1,0
+210396,AgRg no REsp,MG,2012,2,0,0,Namoro,1,1,0,0,1,0
+191972,AgRg no REsp,SP,2016,2,2,0,União estável,1,1,1,1,1,0
+240959,AgRg no AREsp,CE,2012,2,2,0,União estável,1,1,0,,1,0
+220480,REsp,RS,2017,2,2,0,União estável,1,1,1,1,1,0
+221039,REsp,MG,2020,2,0,0,Namoro,1,0,0,1,1,0
+220755,REsp,SC,2020,2,2,0,União estável,1,1,1,1,1,0
